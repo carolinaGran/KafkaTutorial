@@ -1,0 +1,6 @@
+C:\microservices\banking-account\account.common\src\main\java\com\banking\account\common\dto\AccountType.java
+C:\microservices\banking-account\account.common\src\main\java\com\banking\account\common\dto\BaseResponse.java
+C:\microservices\banking-account\account.common\src\main\java\com\banking\account\common\events\FundsWithdrawnEvent.java
+C:\microservices\banking-account\account.common\src\main\java\com\banking\account\common\events\FundsDepositedEvent.java
+C:\microservices\banking-account\account.common\src\main\java\com\banking\account\common\events\AccountOpenedEvent.java
+C:\microservices\banking-account\account.common\src\main\java\com\banking\account\common\events\AccountClosedEvent.java
