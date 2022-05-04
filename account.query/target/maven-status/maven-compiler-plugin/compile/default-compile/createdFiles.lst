@@ -1,0 +1,8 @@
+com\banking\account\query\infrastructure\consumers\AccountEventConsumer.class
+com\banking\account\query\infrastructure\handlers\AccountEventHandler.class
+com\banking\account\query\infrastructure\handlers\EventHandler.class
+com\banking\account\query\infrastructure\consumers\EventConsumer.class
+com\banking\account\query\domain\AccountRepository.class
+com\banking\account\query\domain\BankAccount.class
+com\banking\account\query\QueryApplication.class
+com\banking\account\query\domain\BankAccount$BankAccountBuilder.class

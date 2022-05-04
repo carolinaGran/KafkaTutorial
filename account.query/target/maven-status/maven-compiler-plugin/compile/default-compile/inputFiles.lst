@@ -1,0 +1,7 @@
+C:\microservices\banking-account\account.query\src\main\java\com\banking\account\query\QueryApplication.java
+C:\microservices\banking-account\account.query\src\main\java\com\banking\account\query\infrastructure\handlers\EventHandler.java
+C:\microservices\banking-account\account.query\src\main\java\com\banking\account\query\infrastructure\consumers\EventConsumer.java
+C:\microservices\banking-account\account.query\src\main\java\com\banking\account\query\infrastructure\handlers\AccountEventHandler.java
+C:\microservices\banking-account\account.query\src\main\java\com\banking\account\query\infrastructure\consumers\AccountEventConsumer.java
+C:\microservices\banking-account\account.query\src\main\java\com\banking\account\query\domain\AccountRepository.java
+C:\microservices\banking-account\account.query\src\main\java\com\banking\account\query\domain\BankAccount.java

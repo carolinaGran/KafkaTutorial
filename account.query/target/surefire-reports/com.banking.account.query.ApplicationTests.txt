@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.banking.account.query.ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 11.055 s <<< FAILURE! - in com.banking.account.query.ApplicationTests
+contextLoads  Time elapsed: 0.035 s  <<< ERROR!
+java.lang.NoClassDefFoundError: jakarta/persistence/EntityManagerFactory
+Caused by: java.lang.ClassNotFoundException: jakarta.persistence.EntityManagerFactory
+
