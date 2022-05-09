@@ -1,0 +1,16 @@
+com\banking\cqrs\core\exceptions\AggregateNotFoundException.class
+com\banking\cqrs\core\domain\AggregateRoot.class
+com\banking\cqrs\core\infraestructure\CommandDispatcher.class
+com\banking\cqrs\core\commands\CommandHandlerMethod.class
+com\banking\cqrs\core\exceptions\ConcurrencyException.class
+com\banking\cqrs\core\messages\Message$MessageBuilder.class
+com\banking\cqrs\core\events\EventModel$EventModelBuilder.class
+com\banking\cqrs\core\infraestructure\EventStore.class
+com\banking\cqrs\core\handlers\EventSourcingHandler.class
+com\banking\cqrs\core\events\BaseEvent$BaseEventBuilder.class
+com\banking\cqrs\core\commands\BaseCommand.class
+com\banking\cqrs\core\messages\Message.class
+com\banking\cqrs\core\events\EventModel.class
+com\banking\cqrs\core\producers\EventProducer.class
+com\banking\cqrs\core\domain\BaseEntity.class
+com\banking\cqrs\core\events\BaseEvent.class

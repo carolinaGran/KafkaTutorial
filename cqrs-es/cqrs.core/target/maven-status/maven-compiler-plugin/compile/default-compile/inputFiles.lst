@@ -1,0 +1,13 @@
+C:\microservices\cqrs-es\cqrs.core\src\main\java\com\banking\cqrs\core\exceptions\AggregateNotFoundException.java
+C:\microservices\cqrs-es\cqrs.core\src\main\java\com\banking\cqrs\core\infraestructure\EventStore.java
+C:\microservices\cqrs-es\cqrs.core\src\main\java\com\banking\cqrs\core\events\EventModel.java
+C:\microservices\cqrs-es\cqrs.core\src\main\java\com\banking\cqrs\core\handlers\EventSourcingHandler.java
+C:\microservices\cqrs-es\cqrs.core\src\main\java\com\banking\cqrs\core\domain\BaseEntity.java
+C:\microservices\cqrs-es\cqrs.core\src\main\java\com\banking\cqrs\core\events\BaseEvent.java
+C:\microservices\cqrs-es\cqrs.core\src\main\java\com\banking\cqrs\core\exceptions\ConcurrencyException.java
+C:\microservices\cqrs-es\cqrs.core\src\main\java\com\banking\cqrs\core\commands\BaseCommand.java
+C:\microservices\cqrs-es\cqrs.core\src\main\java\com\banking\cqrs\core\domain\AggregateRoot.java
+C:\microservices\cqrs-es\cqrs.core\src\main\java\com\banking\cqrs\core\producers\EventProducer.java
+C:\microservices\cqrs-es\cqrs.core\src\main\java\com\banking\cqrs\core\commands\CommandHandlerMethod.java
+C:\microservices\cqrs-es\cqrs.core\src\main\java\com\banking\cqrs\core\messages\Message.java
+C:\microservices\cqrs-es\cqrs.core\src\main\java\com\banking\cqrs\core\infraestructure\CommandDispatcher.java
